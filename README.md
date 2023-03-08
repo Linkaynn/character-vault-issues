@@ -1,6 +1,6 @@
 # Characters Vault Project
 
-This repository its to manage all issues related to Character Vault project. Feel free to share your concerns.
+This repository its to manage all issues related to Characters Vault project. Feel free to share your concerns.
 
 ## Project status
 
