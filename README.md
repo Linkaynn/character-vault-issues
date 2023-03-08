@@ -1,4 +1,4 @@
-# Character Vault Project
+# Characters Vault Project
 
 This repository its to manage all issues related to Character Vault project. Feel free to share your concerns.
 
